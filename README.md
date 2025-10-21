@@ -1,8 +1,5 @@
 # 📄 PDF Andes Factura
 
-**PDF Andes Factura** es una aplicación web desarrollada con **Vite**, **Node.js** y **JavaScript/TypeScript**, diseñada para la generación, visualización y administración de comprobantes o facturas en formato PDF.  
-El proyecto forma parte del ecosistema **Andes**, orientado a soluciones digitales para gestión documental.
-
 ---
 
 ## ⚙️ Instalación y ejecución
